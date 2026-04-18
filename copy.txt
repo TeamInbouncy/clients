@@ -1,0 +1,149 @@
+Homepage Layout: HubSpot Scientist Website
+
+🏠 Section 1 — Hero Section
+H1: 🧩 Freelance HubSpot Consultant Helping Businesses Work Smarter with AI
+Subheadline:Transform your HubSpot portal into a high-performing, AI-powered system that attracts, automates, and converts.
+Paragraph (SEO + AI-SEO optimized):I’m Ebarak, also known as The HubSpot Scientist — a seasoned HubSpot Consultant and Super Administrator helping businesses get measurable ROI from their HubSpot investment.
+With a decade of experience and an AI-first approach, I turn complex HubSpot setups into simple, scalable growth engines that work seamlessly across marketing, sales, and service.
+Primary CTA: 🔸 [Book a FREE Discovery Call]
+Video Placeholder (Right Block):
+💡 Section 2 — 3 Striking Benefits / Features
+Headline: 💡 Why Businesses Choose The HubSpot Scientist
+Feature
+Description
+Veteran HubSpot Ecosystem  
+With 10+ years of HubSpot experience, I’ve helped 100+ businesses implement, optimize, and scale using HubSpot CRM, Marketing, Sales, and Service Hubs.
+AI-First HubSpot Consulting
+As an AI-centric HubSpot Consultant, I harness HubSpot’s latest AI tools — from ChatSpot to predictive lead scoring — to build smarter workflows and drive better results.
+Seamless, Reliable Execution
+I work solo or as part of your team. With proactive communication during your business hours, I ensure smooth implementation, transparent reporting, and ongoing success.
+
+
+🤝 Section 3 — Clients Section
+Headline: ✨ Trusted by Businesses Across North America &amp; Europe
+Subheadline: Over the years, I’ve collaborated with leading brands, agencies, and growth-driven SMBs — helping them unlock HubSpot’s full potential.
+(Sliding Logos Placeholder) Unity Communications • Epoch IT • Construction Ready • Au Pair International • VitalEdge • TrueVyne • Felicia’s World • Amia • Saint Paul’s Construction • Kilwins
+(SEO tip: Use keyword-rich alt text like “HubSpot Consultant for Unity Communications – HubSpot Implementation and Automation.”)
+
+🧰 Section 4 — Services Section (3×3 Grid Layout)
+Headline: 🧰 Full-Spectrum HubSpot Consulting &amp; Implementation Services
+Subheadline: As a Freelance HubSpot Consultant, I deliver strategic, technical, and administrative solutions to make HubSpot your most valuable business asset.
+Service
+Description
+CTA
+HubSpot CRM Implementation
+Custom setup, properties, and pipelines designed for accurate data, better reporting, and scalable growth.
+[Learn More →]
+HubSpot Data Migration
+Secure, zero-loss migration from Salesforce, Pipedrive, or Zoho into HubSpot.
+[Learn More →]
+HubSpot Automation &amp; Workflows
+Build advanced, AI-powered automations that save hours and convert faster.
+[Learn More →]
+HubSpot Onboarding &amp; Training
+Personalized onboarding and training for marketing, sales, and admin teams.
+[Learn More →]
+HubSpot Administration &amp; Support
+Day-to-day HubSpot management, user access, and ongoing optimization.
+[Learn More →]
+Custom Integrations
+Connect HubSpot with platforms like Salesforce, Netsuite, QuickBooks, or your proprietary systems.
+[Learn More →]
+HubSpot CMS Development
+Build conversion-ready landing pages, blogs, and websites using HubSpot CMS.
+[Learn More →]
+RevOps Strategy &amp; Consulting
+Align marketing, sales, and service data for predictable, revenue-driven operations.
+[Learn More →]
+AI-Powered Optimization
+Activate HubSpot’s AI tools (ChatSpot, Breeze AI, predictive scoring) for smarter decisions.
+[Learn More →]
+CTA (Below Grid): 🚀 [Book Your FREE Discovery Call]
+
+📊 Section 5 — Case Studies / My Work
+Headline: 📊 Case Studies / My Work
+Subheadline:
+“Real-world examples of how strategic HubSpot consulting and AI-driven automation transformed businesses.”
+Slider (RTL Animation) — Each slide includes a 700×800 px image on the left and STAR-format text on the right.
+
+🏗️ Case Study 1: Construction Ready
+Situation: A workforce training company struggled with scattered leads and no centralized tracking. Task: Unify data and automate enrollment using HubSpot CRM. Action: Built automated deal pipelines, marketing workflows, and GA4-integrated dashboards. Result: Cut manual work by 60% and increased enrollment speed by 45%.
+
+☎️ Case Study 2: Unity Communications
+Situation: BPO provider needed end-to-end marketing attribution visibility. Task: Integrate LinkedIn Ads, GA4, and HubSpot CRM for cross-channel ROI tracking. Action: Implemented automation, ad tracking workflows, and unified reporting dashboards. Result: Improved lead attribution accuracy by 90% and cut reporting time by 75%.
+
+🧩 Case Study 3: Epoch IT
+Situation: IT agency lacked visibility into projects and billing status. Task: Create a CRM system linking deals, tickets, and custom objects. Action: Developed a workflow-driven HubSpot architecture with custom object automation. Result: Achieved 100% visibility and reduced project reporting time by 70%.
+
+💻 Case Study 4: VitalEdge HealthTech
+Situation: HealthTech startup was losing leads to slow response times. Task: Automate lead routing and prioritize high-value prospects. Action: Set up AI lead scoring, smart routing, and automated alerts. Result: Boosted conversion rate by 40% and reduced lead response time by 65%.
+
+🧵 Case Study 5: Felicia’s World
+Situation: E-commerce brand lacked email automation and segmentation. Task: Implement HubSpot Marketing Hub for behavior-based automation. Action: Integrated Shopify with HubSpot and built AI-driven nurture workflows. Result: Increased email revenue by 30% and engagement by 55%.
+
+🌍 Case Study 6: Au Pair International
+Situation: Global placement agency needed to migrate from SugarCRM to HubSpot. Task: Migrate data and implement automated communication journeys. Action: Executed data migration, built workflows, and implemented AI-based personalization. Result: Reduced manual data entry by 80% and increased engagement by 45%.
+CTA: 🔸 [View All Case Studies →]
+
+🌟 Section 6 — Testimonials
+Headline: 🌟 What Clients Say About My HubSpot Consulting Work
+“Ebarak transformed our HubSpot portal into an AI-powered CRM engine — we now have real-time visibility across sales and marketing.” — Kyle Freitas, COO, The Operations Company
+“His communication, precision, and problem-solving are outstanding. The automation work saved us dozens of hours every week.” — Paula Adams, CEO, Au Pair International
+“Ebarak’s strategic and technical mastery of HubSpot is second to none. Highly recommended for growing businesses.” — Felicia Brenoe, Founder, Felicia’s World
+
+💼 Section 7 — Why Hire Me
+Headline: 💼 Why Hire Me as Your Freelance HubSpot Consultant?
+Paragraph:Ebarak, the HubSpot Scientist, has been living and breathing HubSpot for nearly 6 years. He helps businesses get measurable ROI through intelligent setup, automation, and data-driven optimization.
+Accordion Items:
+All-Rounder HubSpot Expert: From onboarding to integrations, I handle every HubSpot challenge end-to-end.
+On-Demand HubSpot Service Provider: Quick response and support whenever you need a HubSpot consultant who truly understands your system.
+US Work Authorization: Seamless collaboration with US-based clients and teams.
+HubSpot Solutions Provider: Bonafide HubSpot Solutions Provider and authorized to provide HubSpot services to HubSpot customers.
+
+🎁 Section 8 — Free Offer
+Headline: 🎁 Get 10 Hours of FREE HubSpot Consulting
+Body Copy:Experience the power of an AI-first HubSpot strategy with zero risk.Book your free discovery call and receive 10 hours of complimentary HubSpot consulting — including CRM audit, quick optimizations, and actionable workflow enhancements.
+CTA: [Claim Your 10 Free Hours →]
+
+⚙️ Section 9 — HubSpot Hubs &amp; Tools I Use Day in, Day out
+Headline: ⚙️ HubSpot Hubs &amp; Tools I Use Day in, Day out
+Subheadline:
+“From CRM architecture to marketing automation and analytics — these are the tools I use every single day to deliver precision and performance.”
+3×3 Grid Layout: | HubSpot Marketing Hub | HubSpot Sales Hub | HubSpot Service Hub | | HubSpot Integrations | HubSpot Content Hub | HubSpot AI (Breeze) | HubSpot Data Hub | HubSpot Commerce Hub | Zapier/Make/N8N| GA4 | Looker Studio | Google Tag Manager | Google Search Console 
+(Alt Text Example: “HubSpot Marketing Hub consulting,” “Zapier workflow automation expert,” etc.)
+
+🧠 Section 10 — Featured Blog Post
+Headline: 🧠 Featured Insight: How AI Is Transforming HubSpot Consulting
+Excerpt:HubSpot’s AI capabilities — from predictive scoring to generative content — are redefining how consultants deliver value. Learn how businesses can use these tools to boost productivity and revenue.CTA: [Read Full Article →]
+
+❓ Section 11 — FAQs
+Headline: 🙋 Frequently Asked Questions
+(10–12 Q&amp;As)
+
+🔸 Above Footer CTA
+🚀 Ready to Automate, Optimize &amp; Scale with HubSpot + AI? CTA Button: [Book Your Free Discovery Call]
+
+
+⚙️ SEO + AI SEO Optimization Summary
+Element
+Optimization Strategy
+Primary Keyword
+“Freelance HubSpot Consultant” (H1, meta title, and first paragraph)
+Secondary Keywords
+“HubSpot consulting services,” “HubSpot CRM expert,” “HubSpot automation,” “HubSpot strategy consultant,” “HubSpot AI tools.”
+Entity Mentions
+HubSpot CRM, Marketing Hub, Sales Hub, Operations Hub, ChatSpot, Breeze AI, Zapier, Google Tag Manager, GA4.
+Tone / EEAT
+Professional yet approachable; showcases 10+ years of proven expertise, measurable results, client testimonials, and transparent offers.
+AI SEO Coverage
+Rich entities + contextual depth to improve discoverability on LLMs and AI-powered search (e.g., ChatGPT Search, Perplexity, Gemini).
+
+
+🏷️ 1. SEO Title (≤ 60 characters)
+Freelance HubSpot Consultant | AI-First CRM &amp; Automation Expert
+✅ Includes primary keyword at the start and strong click intent phrase at the end. ✅ Fits within 580 px width in SERPs.
+
+📝 2. Meta Description (≤ 160 characters)
+Work with Ebarak — The HubSpot Scientist. Expert Freelance HubSpot Consultant helping businesses automate CRM and grow with AI-powered HubSpot solutions.
+⚙️ Rank Math SEO Plugin
+Focus Keyword: Freelance HubSpot ConsultantRelated Keywords: HubSpot Consulting Services, HubSpot CRM Expert, AI-Driven HubSpot Consultant, HubSpot Automation Specialist, HubSpot Strategist.Canonical URL: https://hubspotscientist.com/
